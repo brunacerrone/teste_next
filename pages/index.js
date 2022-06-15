@@ -1,6 +1,6 @@
 function Home() {
     return <div>
-        <h1>Home - Test</h1>
+        <h1>Error 420</h1>
     </div>
 }
 
